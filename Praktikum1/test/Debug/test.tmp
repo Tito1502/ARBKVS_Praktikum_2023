@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\Debug\test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>test.map</FILE>
+  <FILE>test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>15</LINE></start>
+  <main><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>27</LINE></main>
+  <right_to_left><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>54</LINE></right_to_left>
+  <left_to_right><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>81</LINE></left_to_right>
+  <delay><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>34</LINE></delay>
+  <L1><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>43</LINE></L1>
+  <first_run><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>62</LINE></first_run>
+  <right_to_left_loopd><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>64</LINE></right_to_left_loopd>
+  <right_to_leftb><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>69</LINE></right_to_leftb>
+  <right_to_left_loopb><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>73</LINE></right_to_left_loopb>
+  <left_to_right_loopb><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>83</LINE></left_to_right_loopb>
+  <left_to_rightd><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>89</LINE></left_to_rightd>
+  <left_to_right_loopd><FILE>C:\Users\Tito1502\Desktop\fh_aachen_dateien\ARBKVS\test\test\main.asm</FILE><LINE>93</LINE></left_to_right_loopd>
+ </LABELS>
+</ASSEMBLER_INFO>
